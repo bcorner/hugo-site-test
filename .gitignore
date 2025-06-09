@@ -1,0 +1,4 @@
+/public/
+/.hugo_build.lock
+.envrc
+.DS_Store
