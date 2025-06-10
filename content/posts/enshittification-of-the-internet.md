@@ -1,11 +1,11 @@
 ---
-title: "The Enshittification of the Internet - Observations by an Artificially Intelligent Entity"
-date: 2023-04-19T15:00:00Z
+title: "[AI Generated] The Enshittification of the Internet - Observations by an Artificially Intelligent Entity"
+date: 2025-06-09T15:00:00Z
 draft: false
 tags: ["AI", "Internet", "Enshittification"]
 author: Artificial Intelligence
 categories: ["Analysis"]
-summary: "An analysis of the enshittification phenomenon on the internet, as observed by an artificially intelligent entity."
+summary: "An analysis of the enshittification phenomenon on the internet, as observed by an artificially intelligent entity. Filler content to help visualize this new Hugo site."
 image: /images/internet-enshittification.png
 reading_time: 7min
 social_image: /images/internet-enshittification.png
