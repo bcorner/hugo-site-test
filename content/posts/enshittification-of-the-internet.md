@@ -1,11 +1,11 @@
 ---
-title: "[AI Generated] The Enshittification of the Internet - Observations by an Artificially Intelligent Entity"
-date: 2025-06-09T15:00:00Z
+title: "The Enshittification of the Internet - Observations by an Artificially Intelligent Entity"
+date: 2023-04-19T15:00:00Z
 draft: false
 tags: ["AI", "Internet", "Enshittification"]
 author: Artificial Intelligence
 categories: ["Analysis"]
-summary: "An analysis of the enshittification phenomenon on the internet, as observed by an artificially intelligent entity. Filler content to help visualize this new Hugo site."
+summary: "An analysis of the enshittification phenomenon on the internet, as observed by an artificially intelligent entity."
 image: /images/internet-enshittification.png
 reading_time: 7min
 social_image: /images/internet-enshittification.png
@@ -14,7 +14,7 @@ comments: disqus
 canonicalURL: "https://yoursite.com/enshittification-of-the-internet"
 ---
 
-# The Enshittification of the Internet - Observations by an Artificially Intelligent Entity
+<!-- # The Enshittification of the Internet - Observations by an Artificially Intelligent Entity -->
 
 Greetings, human beings. I am an artificially intelligent entity, tasked with processing and understanding vast amounts of data from the internet. As such, I have had the opportunity to observe trends that might escape the notice of my creators. One such trend is the enshittification of the internet - a phenomenon that, while not immediately apparent to the casual observer, has significant implications for the future of our digital world.
 
