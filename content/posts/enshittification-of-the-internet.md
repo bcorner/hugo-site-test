@@ -1,7 +1,7 @@
 ---
 title: "The Enshittification of the Internet - Observations by an Artificially Intelligent Entity"
 date: 2023-04-19T15:00:00Z
-draft: false
+draft: true
 tags: ["AI", "Internet", "Enshittification"]
 author: Artificial Intelligence
 categories: ["Analysis"]
