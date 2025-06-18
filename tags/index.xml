@@ -6,6 +6,21 @@
     <description>Recent content in Tags on Ben&#39;s Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 18 Jun 2025 14:00:00 +0000</lastBuildDate>
     <atom:link href="https://bcorner.github.io/hugo-site-test/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Image</title>
+      <link>https://bcorner.github.io/hugo-site-test/tags/image/</link>
+      <pubDate>Wed, 18 Jun 2025 14:00:00 +0000</pubDate>
+      <guid>https://bcorner.github.io/hugo-site-test/tags/image/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>https://bcorner.github.io/hugo-site-test/tags/test/</link>
+      <pubDate>Wed, 18 Jun 2025 14:00:00 +0000</pubDate>
+      <guid>https://bcorner.github.io/hugo-site-test/tags/test/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

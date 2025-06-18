@@ -6,8 +6,15 @@
     <description>Recent content on Ben&#39;s Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 14:00:00 +0000</lastBuildDate>
     <atom:link href="https://bcorner.github.io/hugo-site-test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hello world</title>
+      <link>https://bcorner.github.io/hugo-site-test/posts/hello-world/</link>
+      <pubDate>Wed, 18 Jun 2025 14:00:00 +0000</pubDate>
+      <guid>https://bcorner.github.io/hugo-site-test/posts/hello-world/</guid>
+      <description>test hello world</description>
+    </item>
     <item>
       <title>About</title>
       <link>https://bcorner.github.io/hugo-site-test/about/</link>
