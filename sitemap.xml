@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://bcorner.github.io/hugo-site-test/about/</loc>
+    <lastmod>2025-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bcorner.github.io/hugo-site-test/</loc>
+    <lastmod>2025-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bcorner.github.io/hugo-site-test/posts/</loc>
+    <lastmod>2023-04-19T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bcorner.github.io/hugo-site-test/categories/</loc>
+  </url><url>
+    <loc>https://bcorner.github.io/hugo-site-test/tags/</loc>
+  </url>
+</urlset>

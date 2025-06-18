@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ben&#39;s Site</title>
+    <link>https://bcorner.github.io/hugo-site-test/</link>
+    <description>Recent content on Ben&#39;s Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://bcorner.github.io/hugo-site-test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://bcorner.github.io/hugo-site-test/about/</link>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bcorner.github.io/hugo-site-test/about/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Ben. This site documents my projects, notes, and explorations.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
