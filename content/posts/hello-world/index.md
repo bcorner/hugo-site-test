@@ -13,8 +13,8 @@ hello world
 
 ![hello world](hello-world.jpg)
 
-<!-- ![green house](DSC04461.JPG) -->
-
 ![green house](green-house.jpg)
 
 ![concrete jungle](concrete-jungle.jpg)
+
+![pretty green](pretty-green.jpg)
